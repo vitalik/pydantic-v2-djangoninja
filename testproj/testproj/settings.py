@@ -114,7 +114,6 @@ USE_TZ = True
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / '..files'
-print(MEDIA_ROOT)
 
 
 # Static files (CSS, JavaScript, Images)
